@@ -1,5 +1,4 @@
-echo indice.txt
-exit
-[D[A[C[D[3~[3~[3~[A[3~[3~[[B[A[D[A[B[B[D[A[C[C[C[C[C[C[C[C[C[C[Capitulo 1: Introduccion a Git
-Capitulo 2: Flujo de trabajo basico
-Capitulo 3: Repositorios remotos
+Capítulo 1: Introducción a Git
+Capítulo 2: Flujo de trabajo básico
+Capítulo 3: Gestión de ramas
+Capítulo 4: Repositorios remotos
